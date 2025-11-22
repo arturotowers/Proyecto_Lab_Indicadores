@@ -5,6 +5,7 @@ busca entender, diagnosticar y optimizar su desempeño financiero utilizando
 únicamente los datos históricos disponibles del **dataset de Lending Club**.
 **Formato:** Equipos de 4 personas
 **Entrega:** 1) *Notebook* (.ipynb) con todo el análisis y visualizaciones. 2)
+
 Presentación ejecutiva (PPT/Canva/Slides) de **15 minutos** + **5 min Q&A**.
 ---
 ## 1) Contexto de negocio

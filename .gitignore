@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignorar archivos de datos grandes
+*.csv
+*.xlsx
+*.parquet
+*.zip
+
+# Ignorar carpetas de configuración del editor (que vi en tu log)
+.idea/
+.ipynb_checkpoints/
